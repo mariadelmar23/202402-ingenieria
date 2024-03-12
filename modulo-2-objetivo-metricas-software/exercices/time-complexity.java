@@ -1,3 +1,5 @@
+// Grupo: Joaquin Godoy, Maria del Mar Cegarra
+
 int mod(int a, int b) {  // Inicial: 1  
     if (b <=a) return -1; // comparacion = 1
     int div = a / b; // asig + arit = 1+1 = 2
